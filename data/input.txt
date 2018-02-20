@@ -20,7 +20,7 @@ AB dc BG AD|E3F GF BA|GG AG F2 FF|GF F/2F3/2 EE FE|
 E/2E3/2 DF GF BA|GG AG F/2F3/2 FF|ED C2 GD2E|F2- F/2
 <end>
 <start>
-X: 2
+X:2
 T:Stella splendens
 C:Livre Vermeil de Montserrat (
 <end>
@@ -202,7 +202,7 @@ dcde fefg afed | edef gfga bgfe | dcde fefg afed | c=Bcd edef gedc |
 dcde fefg afed | edef gfga bgfe | dcde fefg afed | c2d2e2g2 (fede) | c12 |]
 <end>
 <start>
-X: 7
+X:7
 T:Ductie
 C:--
 Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-24
@@ -253,7 +253,7 @@ b>ag |f2a g>fe|d2B d>cB|A2F GAB|A3- A>FA|c>BA G>AB|A3 A>FA|c>BA G>AB|
 A3- A>Bc|A3 A>Bc|d>ed c2d|B3-Bcd|d>cB B2A|G2G :|b>ag|f2a g>fe|d2f e>dc|B2G B>AG|G3|]
 <end>
 <start>
-X: 10
+X:10
 T:Pour passer le Rh?ne
 R:---
 C:Provence
@@ -284,7 +284,7 @@ D4D4 | F4F4 | G4G4 | D4D4 |
 D4D4 | F4F4 | G4G4 | D8 |]
 <end>
 <start>
-X: 11
+X:11
 T:Ungaresca
 R:---
 C:Pierre Phal?se
@@ -346,7 +346,7 @@ d2 edc=B|c2 dcBA|B2 cBAG|A2 AAAA|d2 edc=B|c2 dcBA|B2 fdec|d2 dddd::
 A2 AAAA|(A2 G)ABc|(B2 A)=eff|(f2 =e)AAA|{A}B3 dBG|B2 AAAA|{A}B3 dBG|BAAA A2:|
 <end>
 <start>
-X: 14
+X:14
 T:Adie? paure Carnava
 Z:Transcrit et/ou corrig? par Michel BELLON - 2008-01-23
 Z:Pour toute observation mailto:galouvielle@free.fr
@@ -776,7 +776,7 @@ Bd | ff gg | ff Bd | ff gg | f2 df | ee ce | dd Bd | c^c d=e | Hf2 [Q:Allegretto
 BF Bc | d2d2 | Hc2 f>e | dd cd | BF Bc | !tenuto!d2 !tenuto!c2 | B2 |]
 <end>
 <start>
-X: 30
+X:30
 T:L'escriv?to
 T:La femme aux sarrazins
 R:Chanson
@@ -996,7 +996,7 @@ E3 dc_B | .A.A.A BAG | .F.F.F dcB | ABA AGF |E3 A2A | F2F _e2e |
 d3 EFG | ABA AGF | E2F A2A | ABA FEF | d3 EFG |Adc BAc | A3 :|
 <end>
 <start>
-X: 42
+X:42
 T:Danse des ?p?es
 R:Danse de caract?re
 C:Provence
@@ -1034,7 +1034,7 @@ Suite de la Coupo Santo de Paris
 Passages de Robert Rolland
 <end>
 <start>
-X: 43
+X:43
 T:Les filles de marbre
 C:Trad. militaire
 R:Danse de caract?re
@@ -1049,7 +1049,7 @@ f2f2 f2f2|gfed e2c2|e2e2 e2e2|fedc d2B2|
 f2f2 f2f2|gfed e2c2|e2e2 e2e2|fedc B4|]
 <end>
 <start>
-X: 44
+X:44
 T:L'arlequine
 C:Trad. militaire
 R:Danse de caract?re
@@ -1066,7 +1066,7 @@ d2f2d2f2|g3/2f/2 g3/2a/2 b2g2|f3/2b/2 a3/2g/2 f3/2e/2 d3/2c/2|B2d2B2z2|f2f2f3g/2
 e2e3/2c/2 d2d3/2B/2|c3/2B/2c3/2d/2 c4|f2f2f3g/2a/2|b3/2a/2g3/2f/2 b2f2|e2e3/2c/2 d2d3/2B/2|c3/2B/2c3/2d/2 B4|]
 <end>
 <start>
-X: 45
+X:45
 T:Gavotte
 O:France
 A:Provence
@@ -1388,7 +1388,7 @@ V:Galoubet
 BBcd | e2e2 | ffcd | e2z2 | BBcd | e2e2 | ffcd | e2z>e | f>f fg | a>g fe | decf | B2zB/c/ | d2c2 | B2zf/a/ | g2f2 | e2z2 |]
 <end>
 <start>
-X: 64
+X:64
 T:Au renouviau
 R:Danse 
 <end>
@@ -1430,7 +1430,7 @@ d3 | dzz | F2G | B2c | ((d/c/d/B/)c) | d2d | (d/c/d/c/) (B/A/) | B2B | (cB/A/)B 
 [P:4] (b(a/g/)(f/e/)) | f2g | (f_ed | c2)z || [P:5] (GAG | F2)B | (c/d/_e/f/ e| d3) | (ga/g/f/=e/ | d2)z |]
 <end>
 <start>
-X: 66
+X:66
 T:Estampie
 T:Trotto
 O:France
@@ -1479,7 +1479,7 @@ f2c|:A2c cde|f3 fed|[1 cdc BAG|A2F f2c:|[2 cdc cde|f3 ||
 F2A ccc cdc|A2F ddd|dcd fed|c3 F2A|ccc cdc|A2F fed|cdc BAG|F3 f2c|]
 <end>
 <start>
-X: 69
+X:69
 T:Correnta dei Bofei
 O:France
 A:Provence
@@ -1536,7 +1536,7 @@ FBd|f=ef gfe|f2d ded|d2c cdc|c2!breath!B FBd|f=ef gfe|f2d ded|d2c cdc|B3 aba|
 a2g gag|g2f f=ed|cd=e fg^g|a3 aba|a2g gag|g2f f=ed|cd=e fga|f3|]
 <end>
 <start>
-X: 73
+X:73
 T:Farandole de Fr?jus
 R:Farandole
 A:Provence
@@ -1569,7 +1569,7 @@ A3 A3|c3-cBA|GAB cde|fed c3|A3 A3|c3- cBA|GAB cde|[1 f3-f zz:|[2 f3-fzc|:
 cAc cAc|d2d d3|e2e ede|fed !breath!c2c|cAc cAc|d2d  d3|e2e ede|[1 f3-f zc :|[2 f2-fzz|]
 <end>
 <start>
-X: 75
+X:75
 T:Farandole de Lantosque
 R:Farandole
 I:abc2nwc
@@ -1612,7 +1612,7 @@ fgf|f2d f2b|f3 def|edc cBc|d2B fgf|f2d f2b|f3 def|gfe d2c|B3 d2f|
 c2d edc|d2B d2f|c2d edc|B3 d2f|c2d edc|d2B d2f|=e2f gag|f3|]
 <end>
 <start>
-X: 78
+X:78
 T:Farandole des pompiers
 O:France
 A:Dr?me
@@ -1803,7 +1803,7 @@ FEF GAB|c3 ABc|d^cd fed|(c3!breath!A2)c|!tenuto!B2G e2d|!tenuto!c2A f2c| edc BAG
 FEF GAB|c3 ABc|d^cd fed|(c3!breath!A2)c|!tenuto!B2G e2d!rit!|!tenuto!c2A H!breath!f2c| !tempo!edc BAG|.F2z{cde}.fz2||
 <end>
 <start>
-X: 87
+X:87
 T:Li farandoulaire
 O:France
 A:Provence
@@ -1892,7 +1892,7 @@ K:C transpose=-24
 .B2B2B2 | .B2B2B2 | .B2B2B2 | .B2B2B2 | .B2B2B2 | .B2B2B2 |
 <end>
 <start>
-X: 91
+X:91
 T:Titin
 R:Java
 O:France
@@ -2652,7 +2652,7 @@ G>B | e2e2B>g | gf=ef ad | f2e2G2 | B4 G>B | e2e2B>g | gf=ef ad |
 e4G2 | B4G>B | e2e2 B>g | gf=ef ad | f2e2G2 | B4 G>B | e2e2 B>g | gf=ef ad | e4 ||
 <end>
 <start>
-X: 127
+X:127
 T:Mazurka
 R:Mazurka
 C:Trad.
@@ -2690,7 +2690,7 @@ cef | ggg | gfe | d3 | dfe | dfd | cfc | B3
 
 <end>
 <start>
-X: 130
+X:130
 T:Touro louro louro
 R:No?l
 C:Trad.
@@ -2714,7 +2714,7 @@ N:Bien articul?, pas trop vite
 N:Intro, 1, Intro, 2
 <end>
 <start>
-X: 131
+X:131
 T:La cambo me fai mau
 T:Li a proun de gent
 R:No?l
@@ -2735,7 +2735,7 @@ AG ^FG | D2) zz/2(D/2 | G>^F GA | B2 AB | cc BA |
 B2 +breath+A)(d | G>^F GA | B2 AB | cc BA | G4) |]
 <end>
 <start>
-X: 132
+X:132
 T:Lei Pastour?u
 R:No?l
 C:Trad.
@@ -3148,7 +3148,7 @@ Gd dc/d/|ed/c/ dg|ce dc/B/|A/B/c/A/ BG|Gd dc/d/|ed/c/ dg|ce dc/B/|A/G/A/^F/ G2|:
 A/G/A/B/ Ac |cB/A/ Bd|dc/B/ AG|^FG A2|G/A/B/c/ d/=e/^f/g/|ce dg|ce dc/B/|A/G/A/^F/ G2:|
 <end>
 <start>
-X: 153
+X:153
 T:Scottish d'Orci?re
 R:Scottish
 C:Provence
@@ -3161,7 +3161,7 @@ B2c2 d2cB|A2G2 F4|B2B2 c2d2| [1d2f2 d2c2:| [2edc2 B4
 |:d2e2 f2f2|d2e2 f4|f2f2 f2gf| [1e2d2 d2c2:| [2e2d2 c4|]
 <end>
 <start>
-X: 154
+X:154
 T:L'erbo de San Jan
 R:Scottish
 C:Provence
@@ -3236,7 +3236,7 @@ P:C
 d2d2 dcBA | B6FB | d2Bd f2gd | f2=e2 _e2F2 | e2e2 edcB | g6(3fgf | a4g2f2 | b2b2b2 !D.C.! :|
 <end>
 <start>
-X: 158
+X:158
 T:Scottish 1900
 O:France
 C:Trad.
@@ -3253,7 +3253,7 @@ K:Ebmaj
 "Eb"Be GB | "Cm"E/2G/2B/2G/2 e2 | "F7"d/2c/2F/2G/2 "Bb7"A2 | c/2B/2E/2F/2 "Eb"G2 | "Eb"Be "Bb7"GB | "Ab"cc/2=B/2 "Ebdim"c2 | "Bb"B/2e/2d/2c/2 "Bb7"B/2A/2G/2F/2 | "Eb"EG E2 |]
 <end>
 <start>
-X: 159
+X:159
 T:La vido en roso
 R:Slow
 O:France
@@ -3297,7 +3297,7 @@ g2(3fef g2(3faf | g2z2 z2(3fga | g2(3fef e2 (3d^cd |
 fe dc dz (3ABc | d2(3Bdf e2(3ceg | f4-fz (3Aca S |]
 <end>
 <start>
-X: 161
+X:161
 T:Adios Muchachos
 C:J.-C. Sanders
 R:Tango
@@ -3343,7 +3343,7 @@ B2x2 |: B>B BB | B>B BB | B>B BB | B>B BB | B>B BB | B>B BB | B>B BB | B>B BB | 
 B>B BB | B2z2 | B>B BB | B>B BB | B>B BB | B2 z2 :| B>B BB | B2 |]
 <end>
 <start>
-X: 164
+X:164
 T:Cicerenella
 N:Neapolitan Tarantella
 R:Tarantella
@@ -3399,7 +3399,7 @@ cdc B2A | B6- | B2z |]
 W:Pour la batterie, frapper tous les temps.
 <end>
 <start>
-X: 166
+X:166
 T:S??st?pankki valssi
 R:Valse
 N:fr?n Finland
@@ -3504,7 +3504,7 @@ c2ABcd | c2ABcd | c2a2f2 | d4B2 | G2ABcd | e2d2c2 | e2c2g2 |1 f6 :|2 f2fff2 |:
 f2=e2_e2 | d4c2 | B2ABcB | G6 | e2c2A2 | F2GABc |1 d2cdeA | B6 :|2 d2efga | b6 S |]
 <end>
 <start>
-X: 169
+X:169
 T:La primo dis oulivi?
 T:?r : La Valse brune
 C:Paroles: Charloun Ri?u. Musique: G. Krier   1909
@@ -3577,7 +3577,7 @@ d3 | d3 | d3- | (dfb | ag>a) | (g3 | e3) | B3 | (G2B) | AGA | F3 | g3 | (f2d) | 
 (dfb | ag>a) | d3 | d3 | G3 | A2B | fdB | fed | f3 | c2d | B3- | Bzz !D.C.! ||
 <end>
 <start>
-X: 172
+X:172
 T:Valse ? Cadet
 R:Valse
 A:Morvan
@@ -3591,7 +3591,7 @@ BFd|B3|BFd|c2 c/2d/2|edc|BAG|FGA| [1,3 G2 F:| [2 B3:| [42 B2 A/2B/2|
 d2e|fgf|c2d|efe|B2c|ded| [1 c2B|c3:| [2 c2A|B3|
 <end>
 <start>
-X: 173
+X:173
 T:Valse de Costebelle
 R:Valse
 N:
@@ -3644,7 +3644,7 @@ F2d3B | A4F2 | F2e3c | d4B2 | F2GABc | d6 | c2B3G | F6 | F2d3B | A4c2 | f2G3A | 
 e6 | c2cccc | A2c2A2 | f2=e2_e2 | d6 | f2ffff | d2f2d2 | F2A2c2 | e6 | g2gggg | f2d2f2 | e2G3A | B4z2 !D.C.! :|
 <end>
 <start>
-X: 176
+X:176
 T:La Volte
 O:France
 A:Provence
@@ -3681,7 +3681,7 @@ G/G/GB | c/d/cB | G/G/GB | c/d/cB |
 e/g/ f/f/ e/g/ | f/g/4f/4 ec | e/g/ f/f/ e/g/ | f/g/4f/4 e2 |]
 <end>
 <start>
-X: 2
+X:2
 T:Boulang?re des Plainauds
 O:Vend?e
 C:Trad.
@@ -3716,7 +3716,7 @@ c2ed2c|Bcd c2 G|c2 ed2c|Bcd c3:|
 d3d2c|B2AG3|G2cB2c|d2ef2d|d3d2c|B2AG3|G2cB2B|c2dc3|]
 <end>
 <start>
-X: 4
+X:4
 T:Branle de la Montarde
 R:Bransle
 C:Trad.
@@ -3828,7 +3828,7 @@ G,2G,G, | F,2CC, | G,A,G,C, | G,2G,2 | G,2G,G, | F,2CC | _B,CG,2 | C,4 |:
 C2CC | G,CG,2 | G,2G,C, | G,C,G,C, | C2CC | G,CG,2 | G,2G,C, | F,G,C,2 :|
 <end>
 <start>
-X: 9
+X:9
 T:Calibeurdaine, La 
 R:Divers
 C:Trad.
@@ -3863,7 +3863,7 @@ V:1
 "D"dA dA|dA A2|"C"cG cG|cG G2|"D"dA dA|dA AB|"C"cA GE|"G"D2 D2:|
 <end>
 <start>
-X: 11
+X:11
 T:Cercle circassien
 R:Cercle circassien
 O:Irlande
@@ -3905,7 +3905,7 @@ e/f/ |: g3 e/f/ | g3g | ag fe | f2 dd/e/ | f3d/e/ | f3f | gf ed |1 e2 ce/f/ :|2
 c3 e/f/ |: gg gg | a/g/f/e/ dd/e/ |1 ff ff | g/f/e/d/ ce/f/ :|2 ff ed | g/f/e/d/ c2 |]
 <end>
 <start>
-X: 15
+X:15
 T:Coucou
 Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-06
 Z:Pour toute observation mailto:galouvielle@free.fr
@@ -3929,7 +3929,7 @@ z4 | z2z2 |: e2 gg | e2 gg | aa/2g/2 fg/2f/2 | e2 ge | e2 ge | e2 ge | aa/2g/2 f
 e3g | d3f | c3e | B/2A/2B/2c/2 d2 | e3g | d3f | c3e | B/2A/2B/2c/2 d/2c/2d/2e/2 | c2z2 :|
 <end>
 <start>
-X: 16
+X:16
 T:De Kolom
 R:Divers
 C:Trad. (Flandres)
@@ -4000,7 +4000,7 @@ x16
 x16
 <end>
 <start>
-X: 19
+X:19
 T:Farandole di Tarasca?re
 O:France
 A:Provence
@@ -4107,7 +4107,7 @@ A2B cBA | GAB A2E | A2B cBA | d3-d cB | A2B cBA | GAB AEF | GFG E2B | A3-A3 :|
 eae dgd | c2B cBA | eae dgd | c2B A3 :: [P:Intro]cde cBA | cde cBA | cde cBA |1 GAB A2A :|2 GAB A2 |]
 <end>
 <start>
-X: 23
+X:23
 T:Gigue
 C:Steve Waring
 F:http://simonwascher.info
@@ -4196,7 +4196,7 @@ T:Autre
 d2c B2G | A2B A2B |cec d2B  | A2B A2B | (G2F) G3 |]
 <end>
 <start>
-X: 28
+X:28
 T:La chaussette
 R:---
 C:Limousin ?
@@ -4262,7 +4262,7 @@ cG c2A2GG | cG c2A2G2 | cG c2A2G2 ||
 c2cG cde2 | c2cG cde2 || c2ce dc G2 | GA Bc BG c2 | c2ce dc G2 | GA Bc BG c2 |]
 <end>
 <start>
-X: 32
+X:32
 T:La Foug?re
 R:---
 C:Bretagne
@@ -4313,7 +4313,7 @@ x16
 x16
 <end>
 <start>
-X: 34
+X:34
 T:La fricass?e
 O:Provence - tradition militaire
 Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-24
@@ -4590,7 +4590,7 @@ f2 d2 g2|f2 g4|d4g2|ag f2 e2|d3 e f2|
 ed c2 d2|e2 d2 g2|ag f2 e2|d3 e f2|ed c2 B2|c6|]
 <end>
 <start>
-X: 47
+X:47
 T:Li coco
 O:France
 A:Provence
@@ -4620,7 +4620,7 @@ K:G
 "G"dd/c/ BB/c/|de d2|GA Bd|[1 d/c/B/A/ BG:|[2  d/c/B/A/ G2|]
 <end>
 <start>
-X: 50
+X:50
 T:Marin congo
 R:Marin congo
 O:France
@@ -4634,7 +4634,7 @@ K:Cmaj
 "C"gg/2f/2 ee/2f/2|ga g2|cd eg| [1 g/2f/2e/2d/2 ec:| [2 g/2f/2e/2d/2 c2|]
 <end>
 <start>
-X: 51
+X:51
 T:Meunier, tu dors
 R:---
 Z:Transcrit et/ou corrig? par Michel BELLON - 2007-09-08
@@ -4801,7 +4801,7 @@ G,2G, G,2G, | D,2D, D,2D, | D,2D, D,2D, | G,2G, G,2G, | \
 G,2D, G,2D, | G,2G, D,2D, | G,2D, G,2G, | G,2G, G,2G, |]
 <end>
 <start>
-X: 60
+X:60
 T:Ronde des lavandi?res
 A:Ile-de-France
 Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-23
@@ -4867,7 +4867,7 @@ w:U-ne ci-ga-le, le beau temps pas-s? le beau temps pas-s?
 w: u-ne ci-ga-le, le beau temps pas-s? n'a rien gar-d?.
 <end>
 <start>
-X: 65
+X:65
 T:Une cigale
 O:France
 R:Ronde
@@ -5284,7 +5284,7 @@ d2 ^cA-|A=c BA|B3/2A/2 G^F/2-|F/2G/2F/2G/2 A^F|
 D2 CD-|D^F DF|1G3/2^F/2 G/2A/2B-|BA G/2A/2B/2c/2:|2G3/2A/2 G/2^F/2G|G4:|
 <end>
 <start>
-X: 4
+X:4
 T:La Charge
 C:Manu Paris
 R:Bourree
@@ -5313,7 +5313,7 @@ A>F GA|B>G AB|=c>A Bc|d>=c BA| \
 A>F GA|B>G AB|=cB AG|F4:|
 <end>
 <start>
-X: 1
+X:1
 T:Le Funambule
 R:Bourree
 M: 4/4
@@ -5457,7 +5457,7 @@ DEF|GAB|GA/B/A/G/|F3|DEF|GAB|GA/B/A/F/|G3:|
 ABA|d3|cBA|c3|BAG|AcB|1GA/B/A/G/|F3:|2GA/B/A/F/|G3|]
 <end>
 <start>
-X: 1
+X:1
 T:Le crocodile
 C:Maxou Heintzen
 R:Bourree
@@ -5475,7 +5475,7 @@ g4fe | d4cB | ABcdef | e2d2B2 | \
 g4fe | d4cB | ABcdef | g4 :|
 <end>
 <start>
-X: 1
+X:1
 T:Montagnarde de Sainte-Anne
 C:Eric Elsener
 N:abc transcription Simon Wascher
@@ -5488,7 +5488,7 @@ FG|A2c2B2|A4G2|FGAFDF|B2G2FG| A2c2B2|A4G2|FGAFDF|G4:|
 |:A2|_B2ABAG|F4E2|DEF2G2|_B2A2GA| _B2ABAG|F4E2|DEF2A2|G4:|
 <end>
 <start>
-X: 1
+X:1
 T:Passade 1
 C:Gilles Chabenat
 N:abc transcription Simon Wascher
@@ -5501,7 +5501,7 @@ G2EFGE|A3GAB|cBAGAB|A2GFEF| G2EFGE|A3GAB|cBAGAB|1D6:|2D2EFGA||
 |:B2GABd|A2F2d2|G2EFGB|A2GFED| B2GABd|A2F2d2|G2EFGB|1A4GA:|2A6||
 <end>
 <start>
-X: 1
+X:1
 T:Qu'il est doux de ne rien faire
 C:V. Leutreau
 B:Trad 1, 104
@@ -5515,7 +5515,7 @@ cBcdec|fedcBc|dGABcd|1 c4G2:|2 c4c2||
 ABcAdc|B2 (3GGG GG|ABcdef|1 g4B2:|2 g6||
 <end>
 <start>
-X: 8
+X:8
 T:Prunelle
 C:Bernard Kerboeuf
 Z:Simon Wascher
@@ -5536,7 +5536,7 @@ d/2e/2f/2g/2f/2e/2|d/2e/2f/2g/2f/2e/2|d>ed|c3|1ceg|\
 dcB|dcB|AB/2c/2B/2A/2:|2ced|Bdc|AA/2B/2c/2d/2|G3|]
 <end>
 <start>
-X: 9
+X:9
 T:Les Chevaux de Bois
 C:Bernard Kerboeuf
 Z:Dave Holland <dave@biff.org.uk>
@@ -5840,7 +5840,7 @@ Gc BA|Ge e2|fd dc/d/|ef g2|Gc BA|Ge e2|fd dc/d/|ed c2:|
 ge e2|ge e2|fd dc/d/|ef g2|ge e2|ge e2|fd dc/d/|ed c2:|
 <end>
 <start>
-X: 1
+X:1
 T:Polka du P?re Plumet
 T:The 48 Bar Polka
 M:2/2
@@ -5973,7 +5973,7 @@ G2cBc2|G2ede2|fedcBc|dcBAG2|G2cBc2|G2ede2|fedcBd|1c2c2BA:|2c2c2ef||
 g2gagf|e2c2de|f2fgfe|d4ef|g2gagf|e2c2de|fedcBd|1c2cdef:|2c6|]
 <end>
 <start>
-X: 1
+X:1
 T:Town End
 C:David Faulkner
 R:Mazurka
@@ -6074,7 +6074,7 @@ g|e2c e2g|fef d2g|e2c e2g|f3 d3:|
 ggg g3|agf e3|c2d e2g|1 fed e2c:|2 fed c2|]
 <end>
 <start>
-X: 1
+X:1
 T:Lass O' Dallogill
 A:English
 S:Trad, arr Phil Rowe
@@ -6308,7 +6308,7 @@ c2 BA|Bc d2|cd/e/ dc|1 AB AG:|2 AB c2||
 cd/e/ fe|dc d2|de/f/ g>f|1ed ec:|2 ed c2|]
 <end>
 <start>
-X: 1
+X:1
 T:Basse-dance appelle : Iouyssance vous donneray : 
 R:Basse-dance
 T:auec les mesures & battemens du tabourin. 
@@ -6367,7 +6367,7 @@ P:Reprise
 g/2f/2e/2d/2c/2B/2 | c f/2e/2d/2c/2 | B/2A/2G/2A/2A/2G/2 | HA4 ||
 <end>
 <start>
-X: 2
+X:2
 T:Air d'un branle double.
 R:Branle double
 C:Trad.
@@ -6386,7 +6386,7 @@ AAcc BAGG | cdec ddcc |
 AAcc BAGG | ccBA AGAA |
 <end>
 <start>
-X: 3
+X:3
 T:Air d'un branle simple.
 R:Branle simple
 C:Trad.
@@ -6405,7 +6405,7 @@ AAcc BAGc | cBcc |
 AAcc BAGA | AGAA |
 <end>
 <start>
-X: 4
+X:4
 T:Air du branle gay.
 R:Branle gay
 C:Trad.
@@ -6423,7 +6423,7 @@ K:Gmaj
 AAe c2c | d2d e2e | d2c B2A | A2G A2z |
 <end>
 <start>
-X: 5
+X:5
 T:Air du branle coupp? nomm? Cassandre.
 R:Branle coup?
 C:Trad.
@@ -6443,7 +6443,7 @@ f2ff f2f2 | g/2a/2bfg d2d2 :: b2gg a2ff |
 ggfg d3/2d/2ff | B2B2 | c/2d/2_ecd G2G2 :|
 <end>
 <start>
-X: 6
+X:6
 T:Air du branle coupp? nomm? Pinagay.
 R:Branle coup?
 C:Trad.
@@ -6484,7 +6484,7 @@ GGBB ccd2 | gz dz | cABc d2 G2 :: Gddd cdB2 | dz cz |
 GABc AG   | dz cz | GABc AG | dz ez | dcBB AA G2 ||
 <end>
 <start>
-X: 8
+X:8
 T:Air du branle coupp? de la guerre
 R:Branle coup?
 C:Trad.
@@ -6505,7 +6505,7 @@ g/2f/2g/2a/2 gg e2 cg | fedc B2 G2 | d2 e f g2 gg a gg f g2g2 ::
 ggge  ggge  f/2d/2e f/2d/2e  dced  e/2c/2d e/2c/2d  ccBc  e/2c/2d ccB c2c2 |
 <end>
 <start>
-X: 9
+X:9
 T:Air du premier branle d'Escosse.
 R:Branle d'Ecosse
 C:Trad.
@@ -6526,7 +6526,7 @@ ABcA Bcd2 | dcBA cde2 | dcBA BGA2 ||
 doubl? et encha?n? au suivant
 <end>
 <start>
-X: 10
+X:10
 T:Air du second branle d'Escosse. 
 R:Branle d'Ecosse
 C:Trad.
@@ -6625,7 +6625,7 @@ K:F
 |: B2B2 c/B/A/G/AF GGFBBAB2 :: c/B/A/G/AF c/B/A/G/AF FzFzFz :|
 <end>
 <start>
-X: 15
+X:15
 T:Branle de la torche
 T:Branle du chandelier
 R:Bransle
@@ -6644,7 +6644,7 @@ K:Cmaj
 |: deffe3 edfed ^c2^c2 deffe3 gfe/2 d/2 ee d2d2 :: B2 ^c2d2d2 :|
 <end>
 <start>
-X: 16
+X:16
 T:Branle de Malte
 R:---
 Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-29
@@ -6662,7 +6662,7 @@ L:1/2
 |: a2 A2 d2 d'2 | d2 a2 d2 a2 | g2 =c2 :|
 <end>
 <start>
-X: 17
+X:17
 T:Branle des chevaulx (original)
 R:Bransle
 C:Trad.
@@ -6700,7 +6700,7 @@ K:C
 d2c3/2A/ B c d3/2e/ : d/B/c/d/ e2 e e e3/2 g/ : fed3/2 c/ d/f/e/d/ cd : Bc d3/2c/ B/c/d/e/ d z :|
 <end>
 <start>
-X: 19
+X:19
 T:Ronde "Warum"
 Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
 Z:Pour toute observation mailto:galouvielle@free.fr
@@ -6941,7 +6941,7 @@ c2|c2|B/2c/2 d|B2|c/2d/2e|dc|BA|1GE:|2G2|
 |:G/2A/2B|AG|A2|A2|G/2A/2B|AG|A2|A2:|
 <end>
 <start>
-X: 28
+X:28
 T:Pavane d'Angleterre
 R:Pavane
 C:Claude Gervaise
@@ -7027,7 +7027,7 @@ c2c2dcBA G4z2G2|A2c2c2B2c4c4:|
 |:g3f efge f3e defd|e3d cdec d3c BcdB|c3B ABcA B3A G2G2|A2c2c2B2c4c4:|
 <end>
 <start>
-X: 33
+X:33
 T:Branle de la Montarde
 R:Bransle
 C:Trad.
@@ -7089,7 +7089,7 @@ K:F
 |: GABBA3 AGBAG ^F2^F2 GABBA3 cBA/ G/ AA G2G2 :: E2 ^F2G2G2 :|
 <end>
 <start>
-X: 36
+X:36
 T:Branle de la torche
 T:Branle du chandelier
 R:Bransle
@@ -7123,7 +7123,7 @@ GdddccBB : BGAB c/B/A/G/ A2 |:
 B A/B/GF G/A/B/G/ AA : BA/B/FGAFG2 :|
 <end>
 <start>
-X: 38
+X:38
 T:Le moulin
 R:Branle double
 C:Christophe Ballard
@@ -7154,7 +7154,7 @@ GG/A/BcABAG : ^FGAG :
 GG/A/ Bc AA AG : (^F/G/)A G2 :|
 <end>
 <start>
-X: 40
+X:40
 T:Mon p?re m'a mari?e ? un bossu
 R:Branle simple
 C:Jacques Moderne
@@ -7184,7 +7184,7 @@ F2 GA B2 F2 : GA B2 :| c2cd cABc : G4 |:
 FF GA B>c AA : GGFz :|
 <end>
 <start>
-X: 42
+X:42
 T:Vallet qui aime
 C:Jacques Mangent
 O:1615
@@ -7215,7 +7215,7 @@ M:4/2+2/2
 |: c2 BA ^GA Bc : Be cA : c2 BA ^GA Bc : Be A2 :|
 <end>
 <start>
-X: 44
+X:44
 T:Ah mon beau laboureur !
 C:Christophe Ballard
 O:1703
@@ -7250,7 +7250,7 @@ M:6/4
 DDE ^F3 : G^FG A2A : AB2 ^F2G : AA2 G3 :|
 <end>
 <start>
-X: 46
+X:46
 T:H?las pourquoy
 R:Branle de Poitou et Branle gay
 C:Christophe Ballard
@@ -7303,7 +7303,7 @@ K:F
 G2 G/A/B BB c2 : cd cB A>G G2 :|
 <end>
 <start>
-X: 48
+X:48
 T:Le satire cornu
 R:Branle double
 C:Gabriel Bataille
@@ -7382,7 +7382,7 @@ D,2D,D, | (C,B,,)A,,2 | G,,4 |: B,,2B,,F, | G,3D, | G,F,B,,B,, |
 A,,2D,D, | G,,G,,C,C, | F,2 B,,B,, | C,G,,D,D, | G,,4 :|
 <end>
 <start>
-X: 51
+X:51
 T:Une jeune fillette
 R:Pavane
 C:Renaissance
