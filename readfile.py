@@ -8,8 +8,9 @@ from util import music
 input_file = 'CSE_253_P4/data/input.txt'
 # sample_music = 'data/sample-music.txt'
 
-
+# music_book contain all the information about every song, including beats, name, ryh
 music_book = []
+# contain only the body of music
 sheet = []
 with open(input_file, 'r') as f:
     for i, line in enumerate(f):
